@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://jiseew.proactivehealth.se/sitemap.xml
